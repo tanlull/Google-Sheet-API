@@ -2,8 +2,8 @@
 Line bot + Dialogflow + Google sheet
 https://moremeng.in.th/2019/11/make-line-chatbot-get-google-sheets-data-with-dialogflow.html
 
-google sheet
- https://docs.google.com/spreadsheets/d/1_JGGOYqwX3wQ8QtXs6iyxZ0HBOTu15wJtvhqWOtJxXo/edit?usp=sharing
+google sheet 
+https://docs.google.com/spreadsheets/d/1_JGGOYqwX3wQ8QtXs6iyxZ0HBOTu15wJtvhqWOtJxXo/edit?usp=sharing
 
 GET: https://script.google.com/macros/s/AKfycbwolm39hrs0j3IT_snyMzmwY0Rcvl-AO4WYWXnCNLR4bg4b6Bdc/exec?queryText=2&lang=th
 

@@ -1,3 +1,5 @@
+## 1. Google Sheet API
+
 #### Google API Doc:  
 https://developers.google.com/sheets/api/quickstart/python
 
@@ -21,7 +23,32 @@ python quickstart.py
 ![Google Sheet Data](googlesheet.png)
 
 ---
-### Google Script on Google Sheet
+## 2. Google Script Example for Google Sheet  
+
+### Google Sheet
+https://docs.google.com/spreadsheets/d/1_JGGOYqwX3wQ8QtXs6iyxZ0HBOTu15wJtvhqWOtJxXo/edit?usp=sharing
+
+
+### Google Script 
 ```
 GoogleScript.gs
+```
+
+#### GET Method:  
+https://script.google.com/macros/s/AKfycbwolm39hrs0j3IT_snyMzmwY0Rcvl-AO4WYWXnCNLR4bg4b6Bdc/exec?queryText=2&lang=th
+
+
+#### POST Method:  
+POST : https://script.google.com/macros/s/AKfycbwolm39hrs0j3IT_snyMzmwY0Rcvl-AO4WYWXnCNLR4bg4b6Bdc/exec
+
+```JSON
+  {
+  "queryResult": {
+    "queryText": "1",
+    "parameters": {
+      "number": 1,
+      "lang": "th"
+    }
+   }
+  }
 ```
