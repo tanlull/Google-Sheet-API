@@ -19,3 +19,9 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 python quickstart.py
 ```
 ![Google Sheet Data](googlesheet.png)
+
+---
+### Google Script on Google Sheet
+```
+GoogleScript.gs
+```
